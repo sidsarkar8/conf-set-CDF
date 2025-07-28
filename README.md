@@ -16,9 +16,3 @@ This project aims to provide **assumption-flexible and post-selection-valid** in
 - **Assumption-flexible**: Choose assumptions best suited to your application (e.g., bounded moments, quantile constraints).
 - **Functional-agnostic**: Works for a wide range of functionals beyond just the mean.
 - **Post-selection validity**: Maintains coverage guarantees even when functionals are chosen based on data exploration.
-
-## Applications
-
-- Robust and reliable inference in exploratory data analysis.
-- Data-driven uncertainty quantification with user-specified structural or distributional knowledge.
-- Methodologically principled alternative to bootstrap and asymptotic approximations in sensitive or complex settings.
